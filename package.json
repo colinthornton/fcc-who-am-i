@@ -1,0 +1,19 @@
+{
+  "name": "who-am-i",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp project 'Request Header Parser Microservice'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinthornton/fcc-who-am-i.git"
+  },
+  "author": "Colin Thornton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinthornton/fcc-who-am-i/issues"
+  },
+  "homepage": "https://github.com/colinthornton/fcc-who-am-i#readme"
+}
